@@ -1,0 +1,3 @@
+[submodule "hand-gestures-spotify-control"]
+	path = hand-gestures-spotify-control
+	url = git@github.com:Kabanosk/hand-gestures-spotify-control.git
